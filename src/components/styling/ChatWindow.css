@@ -1,0 +1,13 @@
+.chat-window {
+    background-color: rgb(241, 241, 241);
+    height: 600px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.chat-window ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,26 @@
+#searchForm {
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+}
+
+#searchInput {
+    width: 80%;
+    padding-left: 10px;
+    border: 1px solid rgb(241, 241, 241);
+    line-height: 2rem;
+}
+
+#searchInput:focus {
+    outline: 1px red solid inset;
+}
+
+#searchButton {
+    width: 20%;
+    background-color: rgb(241, 241, 241);
+    border: 1px solid rgb(241, 241, 241);
+}
+
+#searchButton:active {
+    background-color: rgb(161, 161, 161);
+}
