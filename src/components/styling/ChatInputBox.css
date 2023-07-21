@@ -12,7 +12,7 @@
 }
 
 #searchInput:focus {
-    outline: 1px red solid inset;
+    outline: 2px blue solid inset;
 }
 
 #searchButton {
