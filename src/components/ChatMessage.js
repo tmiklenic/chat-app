@@ -12,7 +12,7 @@ const ChatMessage = ({message, currentUser}) => {
              <div className={"chat-message "+ (isAuthor ? "author-message" : "others-message")} style={{backgroundColor: messageBackground}}>
             {message.contents}
         </div>
-         <div className={"message-sender" + (isAuthor ? " author-sender" : "")}>{message.author}</div>
+         <div className={"message-sender " + (isAuthor ? "author-sender" : "")}>{message.author}</div>
         </li>
     );
 }

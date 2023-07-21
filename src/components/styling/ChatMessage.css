@@ -2,10 +2,8 @@
     list-style-type: none;
     margin: 20px;
     flex-basis: 100%;
-    /* align-self: end; */
     display: flex;
     flex-wrap: wrap;
-    /* justify-content: flex-end; */
 }
 
 .chat-message {
