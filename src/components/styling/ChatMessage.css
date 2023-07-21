@@ -15,7 +15,7 @@
 }
 
 .message-sender {
-    color: gray;
+    color: rgb(185, 185, 185);
     font-size: 0.7rem;
     flex-basis: 100%;
 }
