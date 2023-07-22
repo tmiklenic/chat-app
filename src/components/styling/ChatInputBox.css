@@ -13,7 +13,7 @@
 
 #searchInput:focus {
     outline: none;
-    background-color: rgb(252, 252, 197);
+    background-color: rgb(197, 224, 252);
 }
 
 #searchButton {
